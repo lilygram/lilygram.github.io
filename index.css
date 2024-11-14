@@ -1,14 +1,22 @@
 body {background-color: #BEA7E5}
 header
-{background-color: #275DAD;
+{background-color: #832161;
   font-family: "copperplate", fantasy;
   font-size: 5em;
+}
+image{
+  width: 30%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 0px;
+  margin-right: 0px;
+  float: center;
 }
 
 section {width: 100%;font-family: "Courier New", monospace; text-align: center; font-size: 1.5em}
 
 footer
-{background-color: #275DAD;
+{background-color: #832161;
   font-family: "copperplate", fantasy;
   font-size: 2em;
 }
