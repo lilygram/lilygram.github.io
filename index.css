@@ -1,0 +1,14 @@
+body {background-color: #BEA7E5}
+header
+{background-color: #275DAD;
+  font-family: "copperplate", fantasy;
+  font-size: 5em;
+}
+
+section {width: 100%;font-family: "Courier New", monospace; text-align: center; font-size: 1.5em}
+
+footer
+{background-color: #275DAD;
+  font-family: "copperplate", fantasy;
+  font-size: 2em;
+}
